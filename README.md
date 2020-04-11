@@ -10,4 +10,9 @@ https://nikaiduhuhu.github.io/Virtual_Keyboard/
 https://www.youtube.com/watch?v=N3cq0BHDMOY&feature=youtu.be
 
 ## next
+
+- Update
+  - Set figure your background 
+  - for Google Chrome extension
+
 - doreka(https://qiita.com/baby-degu/items/df70cccf686ad9fe4940?utm_source=Qiita%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9&utm_campaign=9434e14247-Qiita_newsletter_407_04_08_2020&utm_medium=email&utm_term=0_e44feaa081-9434e14247-35300509)
